@@ -1,4 +1,4 @@
-# 🚀 TaskNest – Intelligent Task & Workflow Manager
+# TaskNest – Intelligent Task & Workflow Manager
 
 TaskNest is a productivity-focused task management system built to help users efficiently plan, prioritize, and execute their daily work.
 
